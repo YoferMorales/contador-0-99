@@ -1,0 +1,45 @@
+[PROJECT]
+Target=main.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.112
+Compiler=PCM
+CCSVersion=5.112
+[Target Data]
+FileList=main.c
+[Directories]
+Include=
+[C:\Users\User\Desktop\escritorio\programacion V0.0.1\ejercicios del libro compilador C Ccs y simulacion en proteus\contador 0-99\main]
+Type=4
+[mru-list]
+1=main.c
+
+[fileformats]
+forcecoff=0
+
+[ProjectLog]
+Days=1
+D1=17-05-2024
+D1_L=6
+D1_L1=[47653]Project Opened.
+D1_L2=[47662]Started Editing.
+D1_L3=[47984]Stopped Editing.
+D1_L4=[48381]Started Editing.
+D1_L5=[48684]Stopped Editing.
+TotalEdit=1
+TotalDebug=0
+D1_E=1
+D1_D=0
+D1_L6=[48842]Project Closed.
+
+[Opened Files]
+1=main.c
+t1=1
+Count=1
+[main.c]
+Type=4
+
+[defines]
+buildcount=2
+[Units]
+Count=1
+1=main (main)
